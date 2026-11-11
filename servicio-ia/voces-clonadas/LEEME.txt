@@ -1,0 +1,18 @@
+VOCES CLONADAS PARA CHATTERBOX
+==============================
+
+Pon aquí un archivo .wav con la voz que quieres que use Zero y llámalo "mujer.wav"
+(o el nombre que pongas en Config.java).
+
+Cómo tiene que ser el audio:
+  - 10 a 15 segundos de una sola persona hablando en ESPAÑOL DE ESPAÑA
+    (Chatterbox copia también el acento de la referencia).
+  - Voz clara, sin música ni ruido de fondo, sin eco.
+  - Formato .wav (si lo tienes en .mp3, conviértelo con Audacity: Archivo > Exportar > WAV).
+
+IMPORTANTE: usa solo voces que tengas derecho a usar: la tuya, la de alguien que te dé
+permiso, o grabaciones con licencia libre (por ejemplo, audiolibros de dominio público
+de LibriVox leídos en español). No clones la voz de una persona real sin su consentimiento.
+
+Si no hay ningún archivo, la opción "Chatterbox · voz por defecto" usa la voz que trae
+el modelo (femenina, aunque con algo de acento extranjero en español).

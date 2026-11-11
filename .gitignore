@@ -1,0 +1,25 @@
+# Lo que genera Maven al compilar
+target/
+
+# Datos personales: recordatorios, conversaciones, notas, ajustes y registros
+datos/
+*.log
+
+# Entornos de Python y modelos descargados
+servicio-ia/venv/
+servicio-ia/voces/
+__pycache__/
+
+# Voces clonadas: NO se suben
+servicio-ia/voces-clonadas/*
+!servicio-ia/voces-clonadas/LEEME.txt
+
+# Logo e icono personales: NO se suben
+recursos/logo.*
+recursos/zero.ico
+
+# Configuración de Eclipse
+.settings/
+.classpath
+.project
+bin/

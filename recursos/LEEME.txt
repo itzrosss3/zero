@@ -1,0 +1,14 @@
+LOGO DE ZERO
+============
+
+Pon aquí tu logo con el nombre   logo.jpg   o   logo.png
+
+Consejos para que se vea bien:
+  - Cuadrado (si no lo es, Zero lo centra sin deformarlo).
+  - Al menos 256 x 256 píxeles.
+  - Diseño simple: se verá a 16 x 16 en la barra de título, los detalles finos desaparecen.
+  - Si es JPG, el fondo se queda tal cual (los JPG no tienen transparencia).
+
+Al abrir Zero, se crea solo "zero.ico" (el formato que usa Windows para los accesos directos).
+Si cambias el logo, abre Zero una vez y vuelve a ejecutar CONFIGURAR_ARRANQUE.bat
+para que el acceso directo del escritorio coja el nuevo.
